@@ -1,4 +1,5 @@
 // Your code here
+<<<<<<< HEAD
 function saturdayFun(activity="roller-skate") {
   return `This Saturday, I want to ${activity}!`
 }
@@ -46,3 +47,21 @@ let actionApplyer =function(start,arr){
 
 
 
+=======
+function saturdayFun(activity="roller-skate"){
+  console.log("i want to ${activity}");
+}
+let mondayWork = function(activity="go to the office") {
+  return `This Monday, I will ${activity}.`
+}
+let wrapAdjective=function(style="*"){
+  
+   function(par="special"){
+    return 'you are ${style} ${par} ${style}'
+    
+    
+    
+    
+  }
+}
+>>>>>>> b92244f30061812b3825e07395927155b347ca88
